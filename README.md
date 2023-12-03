@@ -33,6 +33,5 @@ As more about this project gets written down carefully, I will update this page 
 [Resume (pdf)](assets/docs/resume.pdf)  
 [Resume (docx)](assets/docs/resume.docx)  
 [CV](assets/docs/CV.pdf)  
-[LinkedIn](www.linkedin.com/in/aidan-lorenz)
-[GitHub](https://github.com/aidanlorenz)
-aidanlorenz@gmail.com
+[LinkedIn](www.linkedin.com/in/aidan-lorenz)  
+[GitHub](https://github.com/aidanlorenz)  
