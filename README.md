@@ -25,8 +25,8 @@ To be written.
 
 ## Other Info
 ### Resume
-[Resume (pdf)](resume.pdf)
-[Resume (docx)](resume.docx)
+[Resume (pdf)](assets/resume.pdf)
+[Resume (docx)](assets/resume.docx)
 
 ### CV
 [CV](CV.pdf)
