@@ -8,21 +8,21 @@ The models we studied included [Segment Anything Model](https://segment-anything
 To see the results of this research-style project, have a look at the white paper linked above.
 
 ### BrewSavvy Beer Recommender System
-[GitHub](https://github.com/b-butler/beer-recommender-erdos-fall-2023)  
+[GitHub Repo](https://github.com/b-butler/beer-recommender-erdos-fall-2023)  
 [Executive Summary](assets/docs/BrewSavvySummary.pdf)  
 
 As part of the [Erdos Institute](https://www.erdosinstitute.org/) Data Science Bootcamp group project, my group ([Timothy Alland](https://www.linkedin.com/in/timothy-alland/), [Brandon Butler](https://www.linkedin.com/in/brandon-butler-685a49122/), [Phuc Nguyen](https://www.linkedin.com/in/phuc-nguyen-8296a51a4/), and I) built a beer recommender system using matrix factorization and variants thereof.
 See the attached executive summary and Github pages for more details. 
 
 ### Baseball Hall of Fame Voting Predictor
-[GitHub](https://github.com/aidanlorenz/HoFVoting)  
+[GitHub Repo](https://github.com/aidanlorenz/HoFVoting)  
 [Paper](assets/docs/HOFVotingPaper.pdf) (from 2019 - the original version of the project)  
 
 As part of our undergraduate senior capstone course in mathematics at Temple University, which was about machine learning, [Eric Albers](https://www.linkedin.com/in/eric-albers-259b14230/) and I built an MLB Hall of Fame voting predictor using XGBoost.
 I have since done some updated work on this project (as can be seen in the linked Github), but the attached paper is from our original submission in 2019.
 
 ### Veering Triangulations and Small Dilatation Pseudo-Anosovs
-[GitHub](https://github.com/aidanlorenz/VeeringExamples)  
+[GitHub Repo](https://github.com/aidanlorenz/VeeringExamples)  
 
 Part of my PhD work involves doing computations with hyperbolic fibered 3-manifolds to uncover information about small dilatations pseudo-Anosov monodromies thereof.
 The Github repo linked here displays some of the code.
