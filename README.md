@@ -30,8 +30,8 @@ As more about this project gets written down carefully, I will update this page 
 
 
 ## Other Info
-[Resume (pdf)](assets/docs/LorenzResume12/20/23.pdf)  
-[Resume (docx)](assets/docs/LorenzResume12/20/23.docx)  
+[Resume (pdf)](assets/docs/LorenzResume12-20-23.pdf)  
+[Resume (docx)](assets/docs/LorenzResume12-20-23.docx)  
 [CV](assets/docs/CV.pdf)  
 [LinkedIn](www.linkedin.com/in/aidan-lorenz)  
 [GitHub](https://github.com/aidanlorenz)  
