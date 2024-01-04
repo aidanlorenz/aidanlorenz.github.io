@@ -1,4 +1,9 @@
 ## Projects
+### Generative AI in Robotics
+_In Progress_
+
+This project, joint with [Ramy Yammine](https://www.linkedin.com/in/ramyyammine/), aims to utilize generative AI architectures (currently we are using variational autoencoders) to improve upon the current industry standards for sampling-based motion planning in robotics (RRT, RRT*, PRM, etc.). The idea is that these methods rely on randomly sampled points in the configuration space of the robot and we believe that generative AI can help us sample these points more intelligently than simply uniformly at random.
+
 ### Evaluating the Real-World Safety and Robustness of Deep Learning Models
 [White Paper](assets/docs/IMAWhitePaper.pdf)
 
