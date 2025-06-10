@@ -1,8 +1,16 @@
-## Projects
-[View Full Portfolio](portfolio.md)
+---
+layout: default
+title: Portfolio
+---
+
+# Portfolio Projects
+
+Here you'll find a collection of (mostly old) projects.
+
+## Machine Learning & AI Projects
 
 ### Generative AI in Robotics
-_In Progress_
+_Incomplete_
 
 This project, joint with [Ramy Yammine](https://www.linkedin.com/in/ramyyammine/), aims to utilize generative AI architectures (currently we are using variational autoencoders) to improve upon the current industry standards for sampling-based motion planning in robotics (RRT, RRT*, PRM, etc.). The idea is that these methods rely on randomly sampled points in the configuration space of the robot and we believe that generative AI can help us sample these points more intelligently than simply uniformly at random.
 
@@ -14,6 +22,8 @@ and I worked with [Charlie Godfrey](https://godfrey-cw.github.io/) and [Henry Kv
 The models we studied included [Segment Anything Model](https://segment-anything.com/) (an image segmentation model developed by Meta) and [GPT-2](https://openai.com/research/gpt-2-1-5b-release) (an earlier version of OpenAI's popular GPT large language models) among others.
 To see the results of this research-style project, have a look at the white paper linked above.
 
+## Data Science Projects
+
 ### BrewSavvy Beer Recommender System
 [GitHub Repo](https://github.com/b-butler/beer-recommender-erdos-fall-2023)  
 [Executive Summary](assets/docs/BrewSavvySummary.pdf)  
@@ -23,10 +33,12 @@ See the attached executive summary and Github pages for more details.
 
 ### Baseball Hall of Fame Voting Predictor
 [GitHub Repo](https://github.com/aidanlorenz/HoFVoting)  
-[Paper](assets/docs/HOFVotingPaper.pdf) (from 2019 - the original version of the project)  
+[Paper](assets/docs/HOFVotingPaper.pdf) (from 2019 - the original version of the project) 
 
 As part of our undergraduate senior capstone course in mathematics at Temple University, which was about machine learning, [Eric Albers](https://www.linkedin.com/in/eric-albers-259b14230/) and I built an MLB Hall of Fame voting predictor using XGBoost.
 I have since done some updated work on this project (as can be seen in the linked Github), but the attached paper is from our original submission in 2019.
+
+## Mathematical Research
 
 ### Veering Triangulations and Small Dilatation Pseudo-Anosovs
 [GitHub Repo](https://github.com/aidanlorenz/VeeringExamples)  
@@ -34,11 +46,3 @@ I have since done some updated work on this project (as can be seen in the linke
 Part of my PhD work involves doing computations with hyperbolic fibered 3-manifolds to uncover information about small dilatations pseudo-Anosov monodromies thereof.
 The Github repo linked here displays some of the code.
 As more about this project gets written down carefully, I will update this page with a write-up explaining the code in more detail.
-
-
-## Other Info
-[Resume (pdf)](assets/docs/LorenzResume12-20-23.pdf)  
-[Resume (docx)](assets/docs/LorenzResume12-20-23.docx)  
-[CV](assets/docs/CV.pdf)  
-[LinkedIn](www.linkedin.com/in/aidan-lorenz)  
-[GitHub](https://github.com/aidanlorenz)  
