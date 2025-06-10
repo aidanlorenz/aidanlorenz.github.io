@@ -3,6 +3,8 @@ layout: default
 title: Portfolio
 ---
 
+[← Back to Home](README.md)
+
 # Portfolio Projects
 
 Here you'll find a collection of (mostly old) projects.
