@@ -11,6 +11,17 @@ Here you'll find a collection of (mostly old) projects.
 
 ## Machine Learning & AI Projects
 
+### AI Running Route Generator
+_In Progress_
+
+Runners often have a standard 3 mile route, a standard 4 mile route, a standard 5 mile route, etc. that can be modified to get finer control over distance. This often leads to a lack of variance in route choice for runners. My goal with this project is to build a system that can suggest running routes to a user based on their expressed (via natural language) preferences such as start/stop location, distance, hilliness, surface type, etc.
+
+I imagine this taking on an "agentic AI" type of design where the user interacts with an LLM to express their route preferences, and the LLM has access to agents with tools such as an elevation calculator, a waypoint generator, etc.
+
+For an MVP, the route generation algorithm will probably just consist of a waypoint generator together with a off-the-shelf routing service to connect waypoints.s
+
+[GitHub Repo](https://github.com/aidanlorenz/AIRouteGenerator)
+
 ### Generative AI in Robotics
 _Incomplete_
 
